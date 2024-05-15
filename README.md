@@ -6,7 +6,7 @@ You can get a glimpse of my career path through my [Linkedin profile]//(in updat
 
 Here are the technologies I'm currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,java,bash,sh,spring,,mongodb,redis,aws,docker,k8s,kafka&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,java,bash,vagrant,oracle,spring,,mongodb,redis,aws,docker,k8s,kafka&theme=dark&perline=6)](https://skillicons.dev)
 
 In addition, I have experience and knowledge in the following technologies:
 
